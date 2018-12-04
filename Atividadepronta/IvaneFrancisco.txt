@@ -1,0 +1,52 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace batalha_naval
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int barcoA, barcoB, tamA = 4, tamB = 4, ataqueA, ataqueB, vitoriaA = 4, vitoriaB = 4, pontuacaoA = 0, pontuacaoB = 0, atingidoA = 0, atingidoB = 0;
+            string[] rioA = new string[10];
+            string[] rioB = new string[10];
+            string play1, play2;
+
+            //NOME PARA OS BARCOS
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("=============================================================");
+            Console.WriteLine("===                 BEM VINDO AO JOGO                     ===");
+            Console.WriteLine("=============================================================");
+            Console.WriteLine("===                         DE                            ===");
+            Console.WriteLine("=============================================================");
+            Console.WriteLine("===                    BATALHA NAVAL                      ===");
+            Console.WriteLine("=============================================================");
+            Console.WriteLine("=============================================================");
+            Console.WriteLine("===          Pressione qualquer tecla para começar        ===");
+            Console.WriteLine("=============================================================");
+
+            Console.ReadKey();
+            Console.Clear();
+
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Player 1. Digite o nome do seu barco: ");
+            play1 = Console.ReadLine();
+
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Player 2. Digite o nome do seu barco: ");
+            play2 = Console.ReadLine();
+
+            //POSIÇÃO DO BARCO A
+
+            Console.Clear();
+
+           
+            while(vitoriaA != 0)
+            {
+                Console.ForegroundColor= ConsoleColor.Green;
+                Console.WriteLine(play1 + ", Digite o a posição em que você quer colocar o seu barco: ");
+                barcoA = Convert.ToInt32(Console.ReadLine());

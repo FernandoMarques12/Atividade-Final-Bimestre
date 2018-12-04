@@ -13,3 +13,8 @@ D:\batalha naval 2\batalha naval 2\obj\x86\Debug\batalha naval 2.csproj.CoreComp
 D:\batalha naval 2\batalha naval 2\obj\x86\Debug\batalha naval 2.exe
 D:\batalha naval 2\batalha naval 2\obj\x86\Debug\batalha naval 2.pdb
 G:\batalha naval 2\batalha naval 2\obj\x86\Debug\batalha naval 2.csprojResolveAssemblyReference.cache
+C:\Users\Camargo\Desktop\repos\Atividade-Final-Bimestre\lastatv\batalha naval 2\batalha naval 2\bin\Debug\batalha naval 2.exe
+C:\Users\Camargo\Desktop\repos\Atividade-Final-Bimestre\lastatv\batalha naval 2\batalha naval 2\bin\Debug\batalha naval 2.pdb
+C:\Users\Camargo\Desktop\repos\Atividade-Final-Bimestre\lastatv\batalha naval 2\batalha naval 2\obj\x86\Debug\batalha naval 2.csprojResolveAssemblyReference.cache
+C:\Users\Camargo\Desktop\repos\Atividade-Final-Bimestre\lastatv\batalha naval 2\batalha naval 2\obj\x86\Debug\batalha naval 2.exe
+C:\Users\Camargo\Desktop\repos\Atividade-Final-Bimestre\lastatv\batalha naval 2\batalha naval 2\obj\x86\Debug\batalha naval 2.pdb
